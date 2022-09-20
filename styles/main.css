@@ -1,0 +1,32 @@
+/*import fonts from Google*/
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+
+* {font-family: 'Readex Pro';}
+
+/*wherever links are present, give white font, remove underlining*/
+a {
+    text-decoration: none;
+    color: white !important;
+    font-weight: 500;
+}
+
+/*when hovered over links, add the below color*/
+a:hover {
+    color: #d33682 !important;
+    text-decoration: none;
+}
+
+/* for unordered lists, remove the bullet points*/
+ul {list-style-type: none;}
+
+/*setting margins*/
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+/*remove texts in header, footer & hamburger icon on top right*/
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
