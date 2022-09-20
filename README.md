@@ -36,7 +36,12 @@ Education credentials will be added)
 
 ![image](https://user-images.githubusercontent.com/56335301/191258302-16b9a45c-65d4-4464-b9bf-d808dc9617bf.png)
 
+4. This is where you can access the URL/server where your app is hosted on
+
 ![image](https://user-images.githubusercontent.com/56335301/191258482-abfef424-57fb-4f51-a76f-9c37a2d67ee4.png)
+
+5. Deployed website in action !! :-)
+![image](https://user-images.githubusercontent.com/56335301/191270388-fb623110-c138-4eca-bb5d-3d391ddfd89a.png)
 
 
 # Credits
