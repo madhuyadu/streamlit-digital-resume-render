@@ -40,7 +40,7 @@ Education credentials will be added)
 
 ![image](https://user-images.githubusercontent.com/56335301/191258482-abfef424-57fb-4f51-a76f-9c37a2d67ee4.png)
 
-5. Deployed website in action !! :-)
+5. Deployed website in action !! 😀
 ![image](https://user-images.githubusercontent.com/56335301/191270388-fb623110-c138-4eca-bb5d-3d391ddfd89a.png)
 
 
